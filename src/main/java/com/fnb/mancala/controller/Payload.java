@@ -5,5 +5,5 @@ import lombok.Value;
 @Value
 class Payload {
     private Integer index;
-    private Boolean isPlayer2Turn;
+    private Boolean isPlayer;
 }
